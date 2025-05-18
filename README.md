@@ -25,8 +25,7 @@
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
 ### 开源项目
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=changyenige&repo=introduction-to-github)]([https://github.com/changye1238/introduction-to-github]
+[https://github.com/changye1238/introduction-to-github]
 <br><br><br>
 
 ### Github 活跃度
