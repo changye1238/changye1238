@@ -30,8 +30,8 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=changyenige&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=changyenige&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=changye1238&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![changye1238's github stats](https://github-readme-stats.vercel.app/api?username=changye1238&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changyenige&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=changyenige&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changye1238&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=changye1238&layout=compact&langs_count=6)
