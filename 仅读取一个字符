@@ -1,0 +1,21 @@
+#include<stdio.h>
+int kong = 0, huan = 0, c = 0;
+char a;
+int main()
+{
+	while ((a = getchar()) != '#')
+
+	{
+		if (a == ' ')
+			kong++;
+		else if (a == '\n')
+			huan++;
+		else
+			c++;
+		printf("They have %d kong,%dhuan,%dc.", kong, huan, c);
+
+
+
+	}
+	printf("They have %d kong,%dhuan,%dc.", kong, huan, c);
+}
